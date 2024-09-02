@@ -8,7 +8,7 @@ appService = AppService();
 
 @app.route('/')
 def home():
-    return "App Works!!!"
+    return "Hands-on DEMO for SolaviseTech Glorious Batch DevOps students!!!"
 
 
 @app.route('/api/tasks')
